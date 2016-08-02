@@ -1,0 +1,10 @@
+NAME="Maui"
+VERSION="1 (Blue Tang)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Maui"
+VERSION_ID="1"
+HOME_URL="http://www.mauilinux.org/"
+SUPPORT_URL="http://forums.mauilinux.org/"
+BUG_REPORT_URL="http://forums.mauilinux.org/"
+UBUNTU_CODENAME=xenial
