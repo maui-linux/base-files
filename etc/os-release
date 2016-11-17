@@ -1,9 +1,9 @@
 NAME="Maui"
-VERSION="2 (Blue Tang)"
+VERSION="2.1 (Blue Tang)"
 ID=ubuntu
 ID_LIKE=debian
 PRETTY_NAME="Maui"
-VERSION_ID="2"
+VERSION_ID="2.1"
 HOME_URL="http://www.mauilinux.org/"
 SUPPORT_URL="http://forums.mauilinux.org/"
 BUG_REPORT_URL="http://forums.mauilinux.org/"
