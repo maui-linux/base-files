@@ -1,9 +1,9 @@
 NAME="Maui"
-VERSION="17.03 (Cuba Libre)"
-ID=ubuntu
-ID_LIKE=debian
+VERSION="17.06 (Cuba Libre)"
+ID=maui
+ID_LIKE=ubuntu
 PRETTY_NAME="Maui"
-VERSION_ID="17.03"
+VERSION_ID="17.06"
 HOME_URL="http://www.mauilinux.org/"
 SUPPORT_URL="http://forums.mauilinux.org/"
 BUG_REPORT_URL="http://forums.mauilinux.org/"
